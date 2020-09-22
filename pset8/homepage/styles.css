@@ -1,0 +1,33 @@
+.my-title
+{
+    color:black;
+    font-family: "Playfair Disparity";
+}
+
+#page-title
+{
+    font-size:30px;
+}
+
+.section-title
+{
+    font-size:25px;
+}
+
+#content {
+    margin: auto;
+}
+
+#resume
+{
+    border: 2px solid DarkGray;
+    background-color: GhostWhite;
+    padding: 10px;
+    cursor: vertical-text;
+}
+
+body
+{
+    background-color: Lavender;
+    font-family: "Georgia";
+}
